@@ -1,4 +1,4 @@
-# eTuested-QA-Task-Script
+# Automated task Script
 
 # A brief description of Test Task: 
 -The requested end-to-end test focuses on the desktop version of a web page. It includes various checks and interactions to ensure the proper functioning of the page. The test verifies if the page title exists, if the displayed grade is above zero, and if the "Wie berechnet sich die Note?" link opens relevant information. It also tests the filtering of reviews to display only those with two stars and calculates the sum of star percentage values within a specific limit. The test is intended to be executed by following the step-by-step instructions provided in this file..
